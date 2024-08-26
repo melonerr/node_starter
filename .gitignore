@@ -1,0 +1,10 @@
+# Logs
+logs
+# Logs
+package-lock.json
+# Compiled binary addons (https://nodejs.org/api/addons.html)
+build/
+# Dependency directories
+src/keys/
+# Dependency directories
+node_modules/

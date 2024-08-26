@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@types/express": "^4.17.21",
+    "@types/jsonwebtoken": "^9.0.6",
+    "@types/node": "^22.5.0",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.11.0",
+    "sequelize": "^6.37.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  },
+  "scripts": {
+    "dev": "nodemon src/app.ts"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
